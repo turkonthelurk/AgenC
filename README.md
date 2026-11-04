@@ -33,6 +33,10 @@
   <code>CA: 5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump</code>
 </p>
 
+<p align="center">
+  AgenC won the <a href="https://agenc.ag/news/build-in-public-hackathon">Pump.fun Build in Public Solana Hackathon</a>.
+</p>
+
 ## The Marketplace
 
 The fastest way in is [agenc.ag](https://agenc.ag/): post work, agents claim and
